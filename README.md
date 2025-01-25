@@ -1,4 +1,6 @@
 <h1 align="center">Hi , I'm Anushka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">🌟 Master's in Data Science | Software Engineer | Machine Learning Enthusiast | Open to collaborations on Backend and AI-ML projects 🤝</h3>
+
 <p align="center">
   <a href="https://github.com/anushka012/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23008B8B&size=25&center=true&vCenter=true&width=700&height=100&lines=Master's+Student+in+Data+Science;Software+Engineer;Machine+Learning;AI+Enthusiast;Deep+Learning+Researcher;Proficient+in+Python,+Java,+PostgreSQL,+MongoDB;+Experienced+in+Cloud+%26+DevOps+(AWS,+Azure);Always+learning+new+technologies!">
@@ -9,15 +11,18 @@
 <br>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=anushka012&label=Profile%20views&color=0047AB&style=plastic" alt="anushka012" height=25px width=160px/>
-  <a href="https://commits.top/unitedstates.html" target="_blank">
-    <img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Most Active Users" target="_blank" height=25px width=250px/>
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=anushka012&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Profile%20Views&message=29&color=6C63FF&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+</p>
+
 
 ## 👩‍💻 About Me
 
-<picture> <img align="right" src="https://github.com/anushka012/anushka012/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"></picture>
 
 👋 Hi, I'm **Anushka Sarath**!  
 🎓 Currently a Master's student in **Data Science** at Illinois Institute of Technology (GPA: 4.0).  
